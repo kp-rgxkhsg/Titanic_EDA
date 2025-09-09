@@ -41,9 +41,7 @@ The dataset used is from the **[Kaggle Titanic: Machine Learning from Disaster](
 - Survival by **class**  
 - Heatmap of correlations  
 
-📊 **Example Visualization:**  
-![Survival Count Example](images/survival_count.png)  
-*(Add your plots in an `images/` folder and link them here)*  
+  
 
 ---
 
@@ -63,8 +61,7 @@ The dataset used is from the **[Kaggle Titanic: Machine Learning from Disaster](
   - Higher-class passengers survived more often.  
   - Age and family size also influenced survival chances.  
 
-📊 **Confusion Matrix Example:**  
-![Confusion Matrix](images/confusion_matrix.png)  
+ 
 
 ---
 
